@@ -34,3 +34,4 @@ include_directories(.)
 #        boj2902.c
 #        boj3046.c
 #        boj9498.c)
+add_executable(boj18108 boj18108.c)
